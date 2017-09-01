@@ -2,3 +2,4 @@ __pycache__
 .ipynb_checkpoints/
 data/img_align_celeba.zip
 data/img_align_celeba/
+.DS_Store
