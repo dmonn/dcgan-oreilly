@@ -59,26 +59,26 @@ If you don't have or don't want to use Docker, you can follow these steps to set
 3. Install miniconda using [one of the installers and the miniconda installation instructions](https://conda.io/miniconda.html). Use Python3.6.
 
 4. After the installation, create a new virtual environment, using this command.
-
-   ```
-   $ conda create -n dcgan
-   $ source activate venv
-   ```
+	```
+	$ conda create -n dcgan
+	$ source activate venv
+	```
    
 5. You are now in a virtual environment. Next up, [install TensorFlow by following the instructions](https://www.tensorflow.org/install/).
 
 6. To install the rest of the dependenies, navigate into your repository and run 
 
-   ```
-   pip install -r dockerfiles/requirements.txt```
+	```
+	$ pip install -r dockerfiles/requirements.txt
+	```
    
 7. Now you can run 
 
-   ```
-   jupyter notebook
-   ```
-   
-   to finally start up the notebook. A browser should open automatically. If not, navigate to [http://127.0.0.1:8888](http://127.0.0.1:8888) in your browser. 
+	```
+	jupyter notebook
+	```
+	
+	to finally start up the notebook. A browser should open automatically. If not, navigate to [http://127.0.0.1:8888](http://127.0.0.1:8888) in your browser. 
 
 ## Requirements
 
