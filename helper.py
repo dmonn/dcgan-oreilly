@@ -28,6 +28,7 @@ def download_file_from_google_drive(id, destination):
     response = session.get(URL, params=params, stream=True)
 
   save_response_content(response, destination)
+  print("Done.")
 
 def download_celeb_a():
   dirpath = './data'
