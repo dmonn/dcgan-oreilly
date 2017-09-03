@@ -41,6 +41,8 @@ This repository contains source code corresponding to our article ["Deep Convolu
     ```
 
     and navigate to [http://0.0.0.0:8888](http://0.0.0.0:8888) in your browser.
+    
+6. Choose `DCGANs with Tensorflow.ipynb` to open the Notebook.
 	
 #### Debugging docker
 If you receive an error of the form:
@@ -79,6 +81,8 @@ If you don't have or don't want to use Docker, you can follow these steps to set
 	```
 	
 	to finally start up the notebook. A browser should open automatically. If not, navigate to [http://127.0.0.1:8888](http://127.0.0.1:8888) in your browser. 
+	
+8. Choose `DCGANs with Tensorflow.ipynb` to open the Notebook.
 
 ## Requirements
 
