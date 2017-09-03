@@ -6,7 +6,7 @@ import numpy as np
 from PIL import Image
 from tqdm import tqdm
 
-DEBUG = True
+DEBUG = False
 
 def get_confirm_token(response):
   for key, value in response.cookies.items():

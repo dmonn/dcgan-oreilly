@@ -3,3 +3,4 @@ __pycache__
 data/img_align_celeba.zip
 data/img_align_celeba/
 .DS_Store
+data/celebA/
