@@ -2,7 +2,7 @@
 
 In this tutorial, we will try to build a GAN that is able to generate human faces with TensorFlow. Sounds scary, doesn’t it?
 
-This repository contains source code corresponding to our article ["Deep Convolutional Generative Adversarial Networks with TensorFlow"](http://oreilly.com).
+This repository contains source code corresponding to our article ["Deep Convolutional Generative Adversarial Networks with TensorFlow"](https://www.oreilly.com/ideas/deep-convolutional-generative-adversarial-networks-with-tensorflow).
 
 ## Setup
 
